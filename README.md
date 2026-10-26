@@ -1,2 +1,2 @@
 My Favorites
-Individual repo listing my favorite Things.
+Individual repo listing my favorite things
